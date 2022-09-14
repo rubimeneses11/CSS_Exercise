@@ -1,0 +1,41 @@
+.nav-link {
+color: orange; /* changes link color */
+text-decoration: none; /*removes default underline*/
+}
+
+main {
+max-width: 600px;
+/* margin-top: 24px;
+margin-bottom: 24px;
+margin-left: auto;
+margin-right: auto; */
+margin: 24px auto;
+}
+
+section {
+  margin-top: 24px 0;
+  padding: 16px;
+}
+
+#title {
+  font-size: 40px;
+  font-weight: 800; /*will give element a bolded font weight*/
+}
+
+.d-inline {
+  display: inline; /* will display as an inline element */
+}
+
+nav > ul {
+  list-style: none; /* removes bullet point displayed by default for lists*/
+}
+
+body {
+  background-color: #222;
+  color: #eee;
+}
+
+#avatar {
+  width: 100px;
+  margin: 32px auto;
+}
